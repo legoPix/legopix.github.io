@@ -25,3 +25,8 @@ hr {
 	text-align: center;
 	font-weight: bold;
 }
+
+.back {
+	text-decoration: none;
+	font-size: 50px;
+}
